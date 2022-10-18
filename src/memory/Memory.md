@@ -1,5 +1,6 @@
 # Memory
-* Static Memory Allocation: 
+<b>Static Memory Allocation: </b>
+
 Memory Allocated during compile time is called <u><b>Static Memory</b></u>.
 
 The memory allocated is fixed and cannot be increased or decreased during run time.
@@ -18,7 +19,8 @@ If the value stored by the user in the array at run time is less than the size s
 If the value stored by the user in the array at run time is <u>more</u> than the size specified the program will crash or misbehave.
 
 ## Here comes the Rescue:
-* Dynamic Memory Allocation: 
+<b>Dynamic Memory Allocation:</b> 
+
 This is the process of allocating memory at the time of execution.
 
 
@@ -74,6 +76,7 @@ In short Garbage Collection(GC) is the process of collecting garbage | process o
 GC Process also called <b>automatic memory management</b> with ref to JS.
 
 ## Concepts necessary for understanding the main garbage collection algorithms:
+
  * Mark-and-Sweep Algorithm: 
 
 The algorithm starts from the root object and checks for references linked.
