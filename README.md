@@ -6,4 +6,4 @@
 
 ## Basics (Updated Daily)
 * [Big O Notation](https://github.com/MaryamMuchai/Data-Structures-Algorithms-Prep.git/src/Big_O_Notation/bignotation.md)
-* [Memory](https://github.com/MaryamMuchai/Data-Structures-Algorithms-Prep.git/src/memory/memory.md)
+* [Memory](https://github.com/MaryamMuchai/Data-Structures-Algorithms-Prep.git/src/memory/Memory.md)
