@@ -69,7 +69,7 @@ Some function calls result in object allocation.
 
 > const e = document.createElement("div"); // allocates a DOM element
 
-## Garbage Allocation
+## Garbage Collection
 When the Program ends the data inside location is garbage which needs to be cleared.
 In short Garbage Collection(GC) is the process of collecting garbage | process of finding and deleting objects which are no longer being referenced by other objects. (General Knowledge that applies to all Programming languages.)
 
