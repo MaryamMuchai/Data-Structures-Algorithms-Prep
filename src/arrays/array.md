@@ -34,3 +34,5 @@ Static array its fixed size and the next memory slot may not be empty.
 * at beginning:O(n)T - shifts position and re-index elements
 * at end: :O(1)T - doesn not require shifting any elements
 * somewhere in between: :O(n)T = shift the element and re-index
+
+![Screenshot ](https://user-images.githubusercontent.com/78798386/199032831-25f6ddd0-8f16-45f8-902c-74dfa1c10e38.png)
