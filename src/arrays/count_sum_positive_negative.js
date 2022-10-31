@@ -12,7 +12,7 @@ function countPositivesSumNegatives(input) {
 //1. Set two variables positiveno and negative no to 0, to return an empty array if the input is null or empty 
     let totalCount = [0,0]
     
-// 2. Checks if input is an empty or is null; it returns and empty arra
+// 2. Checks if input is an empty or is null; it returns and empty array
     if(input === null || input.length <=0) totalCount = []
 
 //3. Checks if the numbers are greater than zero and runs a conditional experession to count the positive numbers and add the negative numbers.
