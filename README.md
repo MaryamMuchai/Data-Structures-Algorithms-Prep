@@ -8,4 +8,6 @@
 * [Big O Notation](https://github.com/MaryamMuchai/Data-Structures-Algorithms-Prep/blob/main/src/Big_O_Notation/bignotation.md)
 * [Memory](https://github.com/MaryamMuchai/Data-Structures-Algorithms-Prep/blob/main/src/memory/Memory.md)
 
-* [Arrays](https://github.com/MaryamMuchai/Data-Structures-Algorithms-Prep/blob/main/src/Loop/loop.md)
+* [Loops](https://github.com/MaryamMuchai/Data-Structures-Algorithms-Prep/blob/main/src/Loop/loop.md)
+
+* [Arrays](https://github.com/MaryamMuchai/Data-Structures-Algorithms-Prep/blob/main/src/arrays/array.md)
