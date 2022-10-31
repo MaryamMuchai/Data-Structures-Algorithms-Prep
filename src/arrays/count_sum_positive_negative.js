@@ -15,7 +15,7 @@ function countPositivesSumNegatives(input) {
 // 2. Checks if input is an empty or is null; it returns and empty array
     if(input === null || input.length <=0) totalCount = []
 
-//3. Checks if the numbers are greater than zero and runs a conditional experession to count the positive numbers and add the negative numbers.
+//3. Checks if the numbers are greater than zero and runs a conditional experession to count the positive numbers and adds the negative numbers.
         else {
             input.forEach(number => {
                 if(number > 0) totalCount[0] += 1
