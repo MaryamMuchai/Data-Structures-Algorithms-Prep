@@ -11,3 +11,5 @@
 * [Loops](https://github.com/MaryamMuchai/Data-Structures-Algorithms-Prep/blob/main/src/Loop/loop.md)
 
 * [Arrays](https://github.com/MaryamMuchai/Data-Structures-Algorithms-Prep/blob/main/src/arrays/array.md)
+
+* [Strings](https://github.com/MaryamMuchai/Data-Structures-Algorithms-Prep/blob/main/src/strings/strings.md)
