@@ -13,3 +13,5 @@
 * [Arrays](https://github.com/MaryamMuchai/Data-Structures-Algorithms-Prep/blob/main/src/arrays/array.md)
 
 * [Strings](https://github.com/MaryamMuchai/Data-Structures-Algorithms-Prep/blob/main/src/strings/strings.md)
+
+* [Hash Maps](https://github.com/MaryamMuchai/Data-Structures-Algorithms-Prep/blob/main/src/hash/hash_tables.md)
