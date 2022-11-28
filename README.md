@@ -17,3 +17,5 @@
 * [Hash Maps](https://github.com/MaryamMuchai/Data-Structures-Algorithms-Prep/blob/main/src/hash/hash_tables.md)
 
 * [Linked List](https://github.com/MaryamMuchai/Data-Structures-Algorithms-Prep/blob/main/src/linked_list/doubly_linked_list.md)
+
+* [Queues](https://github.com/MaryamMuchai/Data-Structures-Algorithms-Prep/blob/main/src/queues/queues.md)
