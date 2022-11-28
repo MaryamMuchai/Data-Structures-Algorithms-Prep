@@ -28,4 +28,3 @@ The end at which deletion takes place is called <b> Front</b>
 
 (4) Add data element to the queue location, where the REAR is pointing.
 
-### Single
