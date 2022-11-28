@@ -57,5 +57,4 @@ reverse(){
     this.queue = reversed;
     return this.queue;
 }
-
 }
