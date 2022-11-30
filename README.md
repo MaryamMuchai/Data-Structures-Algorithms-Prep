@@ -19,3 +19,9 @@
 * [Linked List](https://github.com/MaryamMuchai/Data-Structures-Algorithms-Prep/blob/main/src/linked_list/doubly_linked_list.md)
 
 * [Queues](https://github.com/MaryamMuchai/Data-Structures-Algorithms-Prep/blob/main/src/queues/queues.md)
+
+## Leetcode 75 (Study Plan)
+### Prefix Sum
+* [Running Sum of 1d Array](https://github.com/MaryamMuchai/Data-Structures-Algorithms-Prep/blob/main/Leetcode/Prefix_Sum/runningsum.js)
+
+* [Find Pivot Index](https://github.com/MaryamMuchai/Data-Structures-Algorithms-Prep/blob/main/Leetcode/Prefix_Sum/findpivot.js)
