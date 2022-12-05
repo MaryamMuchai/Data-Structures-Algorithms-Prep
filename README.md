@@ -20,6 +20,8 @@
 
 * [Queues](https://github.com/MaryamMuchai/Data-Structures-Algorithms-Prep/blob/main/src/queues/queues.md)
 
+* [Tree Data Structure](https://github.com/MaryamMuchai/Data-Structures-Algorithms-Prep/blob/main/src/Tree/tree.md)
+
 ## Leetcode 75 (Another Day another LeetCode Problem)
 ### Prefix Sum
 * [Running Sum of 1d Array](https://github.com/MaryamMuchai/Data-Structures-Algorithms-Prep/blob/main/Leetcode/Prefix_Sum/runningsum.js)
