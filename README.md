@@ -20,7 +20,7 @@
 
 * [Queues](https://github.com/MaryamMuchai/Data-Structures-Algorithms-Prep/blob/main/src/queues/queues.md)
 
-## Leetcode 75 (Study Plan)
+## Leetcode 75 (Another Day another LeetCode Problem)
 ### Prefix Sum
 * [Running Sum of 1d Array](https://github.com/MaryamMuchai/Data-Structures-Algorithms-Prep/blob/main/Leetcode/Prefix_Sum/runningsum.js)
 
