@@ -1,4 +1,4 @@
-// Given an rray of integers nums, calculate the pivot index of this array.
+// Given an array of integers nums, calculate the pivot index of this array.
 // The pivot index is the index where the sum of all the numbers strictly to the left of the index is equal to the sum of all the numbers strictly to the index's right.
 // If the index is on the left edge of the array, then the left sum is 0 because there are no elements to the left. This also applies to the right edge of the array.
 // Return the leftmost pivot index. If no such index exists, return -1.
@@ -31,9 +31,32 @@
 
 //Solution
 var pivotIndex = function(nums) {
-  
+  //declare variables
+  let totalSum = 0;
+    let leftmost = 0;
+
+    nums.forEach((e)=>{
+        totalSum += e
+    })
+    for(let i = 0; i < nums.length; i++){
+        if(totalSum - leftmost - nums[i] === leftmost){
+        return i;
+    }
+    leftmost += nums[i]
+}
+    return -1;
     
 };
 console.log(pivotIndex([1,7,3,6,5,6]));
 console.log(pivotIndex([1,2,3]));
 console.log(pivotIndex([2,1,-1]));
+
+/* [1,7,3,6,5,6] = 28
+leftIndex = 0 + 1 + 7 + 3
+28 - 0 - 1 = 0
+28 - 1 - 7 = 1
+28 - 8 - 3 = 8
+28 - 11 - 6 = 11
+
+
+*/
