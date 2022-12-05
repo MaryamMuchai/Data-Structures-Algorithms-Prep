@@ -25,3 +25,10 @@
 * [Running Sum of 1d Array](https://github.com/MaryamMuchai/Data-Structures-Algorithms-Prep/blob/main/Leetcode/Prefix_Sum/runningsum.js)
 
 * [Find Pivot Index](https://github.com/MaryamMuchai/Data-Structures-Algorithms-Prep/blob/main/Leetcode/Prefix_Sum/findpivot.js)
+
+### Linked List
+* [Middle of the Linked List](https://github.com/MaryamMuchai/Data-Structures-Algorithms-Prep/blob/main/Leetcode/Linked_List/middle.js)
+
+* [Merge Two Sorted Lists](https://github.com/MaryamMuchai/Data-Structures-Algorithms-Prep/blob/main/Leetcode/Linked_List/merge.js)
+
+* [Reverse Linked List](https://github.com/MaryamMuchai/Data-Structures-Algorithms-Prep/blob/main/Leetcode/Linked_List/reverse.js)
