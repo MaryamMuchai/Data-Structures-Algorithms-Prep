@@ -1,4 +1,5 @@
-### Why is this important?
+# PROGRAMMING Q!JESTIONS & SOLUTIONS
+## Why is this important?
 * Understanding algorithms lets us reuse knowledge from the field.
 * Better-performing algorithms can enhance the user experience by decreasing wait times.
 * Better-performing algorithms can save companies money by reducing equipment needs.
